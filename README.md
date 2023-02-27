@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/013abf51-f354-4f62-a9a2-47b0abd35180/deploy-status)](https://app.netlify.com/sites/skysavvy/deploys)
+
 # weather
 
 This template should help get you started developing with Vue 3 in Vite.
